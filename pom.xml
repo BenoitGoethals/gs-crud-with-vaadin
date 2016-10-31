@@ -31,13 +31,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-    <repository>
-        <id>sonatype-snapshots</id>
-        <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-        <snapshots>
-            <enabled>true</enabled>
-        </snapshots>
-    </repository>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
