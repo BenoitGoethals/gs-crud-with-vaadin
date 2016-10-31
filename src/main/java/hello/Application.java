@@ -28,6 +28,8 @@ public class Application {
 			repository.save(new Customer("Michelle", "Dessler"));
 			repository.save(new Customer("Michelle", "Dessler"));
 
+
+
 			// fetch all customers
 			log.info("Customers found with findAll():");
 			log.info("-------------------------------");
