@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/changes/changes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/hello/Application.java">
           <value>
             <set />
@@ -39,6 +44,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/hello/VaadinUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/site/site.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/site/xdoc/best-practices.xml">
           <value>
             <set />
           </value>
